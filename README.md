@@ -1,7 +1,7 @@
 ### Hi there 👋
 I’m currently learning in Jomo Kenyatta University of Agriculture and Technology
 - 👯 My name is Ashraf Mohammed Hassan Anil
-- 🤔 I’m looking for help with making a outstanding data science project with a real life value
+- 🚀Aspiring data scientist
 - 📫 How to reach me: Can email me via ashrafanil434@gmail.com or contact me via Whatsaap
 - 😄 Pronouns: he/him
 <!--

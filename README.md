@@ -4,6 +4,9 @@ I’m currently learning in Jomo Kenyatta University of Agriculture and Technolo
 - 🚀Aspiring data scientist
 - 📫 How to reach me: Can email me via ashrafanil434@gmail.com or mohammed.ashraf@students.jkuat.ac.ke
 - 😄 Pronouns: he/him
+- 📄 [My Resume]([Link Text](URL)
+)
+
 <!--
 **Habib-Ashraf-Hassan/Habib-Ashraf-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
